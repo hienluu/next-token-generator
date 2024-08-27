@@ -1,1 +1,1 @@
-## This is a simple demo of the next token generator to show the probalilities of a list of tokens
+## A simple Gradio demo to display the probalilities of a list of tokens from the token generator
